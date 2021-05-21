@@ -1,0 +1,26 @@
+[
+ {
+   "repository": "device_xiaomi_sdm845-common",
+   "target_path": "device/xiaomi/sdm845-common",
+   "branch": "r11",
+   "remote": "stagos-devices"
+ },
+ {
+   "repository": "vendor_xiaomi_beryllium",
+   "target_path": "vendor/xiaomi",
+   "branch": "r11",
+   "remote": "stagos-devices"
+ },
+ {
+   "repository": "Cruzer1/STRIXX",
+   "target_path": "kernel/xiaomi/sdm845",
+   "branch": "lineage-18.1",
+   "remote": "github"
+ },
+ {
+   "repository": "Cruzer1/hardware_xiaomi",
+   "target_path": "hardware/xiaomi",
+   "branch": "lineage-18.1",
+   "remote": "github"
+ }
+]
