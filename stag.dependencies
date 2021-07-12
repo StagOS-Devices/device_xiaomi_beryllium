@@ -12,15 +12,9 @@
    "remote": "stagos-devices"
  },
  {
-   "repository": "Cruzer1/STRIXX",
+   "repository": "Painkiller3/kernel_xiaomi_sdm845",
    "target_path": "kernel/xiaomi/sdm845",
-   "branch": "lineage-18.1",
-   "remote": "github"
- },
- {
-   "repository": "Cruzer1/hardware_xiaomi",
-   "target_path": "hardware/xiaomi",
-   "branch": "lineage-18.1",
+   "branch": "eleven",
    "remote": "github"
  }
 ]
